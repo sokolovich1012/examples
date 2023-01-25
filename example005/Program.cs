@@ -1,11 +1,11 @@
-﻿Console.Write("Введите имя пользователя:");
+﻿Console.Write("Enter username:");
 string username = Console.ReadLine();
-if(username == "Alesa")
+if(username == "Ira")
 {
- Console.WriteLine("Bro");
+ Console.WriteLine("I love you");
 }
 else 
 {
- Console.Write("привет,");
+ Console.Write("You gay,");
  Console.WriteLine(username);
 }
