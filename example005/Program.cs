@@ -6,6 +6,6 @@ if(username == "Ira")
 }
 else 
 {
- Console.Write("You gay,");
+ Console.Write("Hello,");
  Console.WriteLine(username);
 }
