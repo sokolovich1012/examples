@@ -6,18 +6,18 @@ if (a > b)
 {
   int max=a;
   int min=b;
-   Console.WriteLine("max numbers");
+   Console.Write("max numbers-");
    Console.WriteLine(max);
-   Console.WriteLine("min numbers");
+   Console.Write("min numbers-");
    Console.WriteLine(min);
 } 
 else if (a < b)
 {
   int max=b;
   int min=a;
-   Console.WriteLine("max numbers");
+   Console.Write("max numbers-");
    Console.WriteLine(max);
-   Console.WriteLine("min numbers");
+   Console.Write("min numbers-");
    Console.WriteLine(min);
 }
 else
